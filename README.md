@@ -27,7 +27,7 @@ Ele oferece uma plataforma web e mobile para jogadores encontrarem outros para j
 
 ## 🥇 Objetivo
 
-O objetivo deste projeto é ajudar jogadores a encontrar outros jogadores com interesses em comum, para jogar juntos e se divertir. Além disso, ele também permite que os jogadores encontrem outros jogadores para formar equipes e participar de competições online, sem se limitar a apenas ao duo.
+O objetivo deste projeto é ajudar jogadores a encontrar outros jogadores com interesses em comum, para jogar juntos e se divertir. Além disso, ele também permite que os jogadores encontrem outros jogadores para formar equipes e participar de competições online, sem se limitar apenas ao duo.
 
 ## 💻 Interface Web
 
