@@ -37,11 +37,11 @@ O objetivo deste projeto é ajudar jogadores a encontrar outros jogadores com in
 
 ## 📱 Interface Mobile
 
-![anúncios](https://user-images.githubusercontent.com/90652800/213345985-2bc97a8e-644a-4434-9d62-3c6f87e0765b.png)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+![anúncios](https://user-images.githubusercontent.com/90652800/213345985-2bc97a8e-644a-4434-9d62-3c6f87e0765b.png)ㅤ
 ![conectado](https://user-images.githubusercontent.com/90652800/213345991-150f2e5b-8277-4990-a7ea-37a3e143b00a.png)
 <p>ㅤ<p/>
 
-![home](https://user-images.githubusercontent.com/90652800/213345993-99808731-e952-4cf5-812b-44762ed38797.png)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+![home](https://user-images.githubusercontent.com/90652800/213345993-99808731-e952-4cf5-812b-44762ed38797.png)ㅤ
 ![splash](https://user-images.githubusercontent.com/90652800/213345996-76b44e2f-6866-46ca-879f-fe0853fad403.png)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
 
