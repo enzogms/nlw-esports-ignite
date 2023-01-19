@@ -2,9 +2,6 @@
 <br>SquadUp</h1>
 <p align="center">
    <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
-   <br>
-   <a href="em breve">Ver demonstração</a>
-   <br>
 </p>
 
 # Descrição do projeto
