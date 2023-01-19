@@ -1,0 +1,35 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Game {
+  id        String @id @default(uuid())
+  title     String
+  bannerUrl String
+  // Um game pode ter varios ads (1:N)
+  ads       Ad[]
+}
+
+model Ad {
+  id              String   @id @default(uuid()) // não usamos id numerico, por ñ ser tão seguro, pois a pessoa pode adivinhar pq ele é numerico e sequencial
+  gameId          String
+  name            String
+  yearsPlaying    Int
+  discord         String
+  weekDays        String
+  hourStart       Int
+  hourEnd         Int
+  useVoiceChannel Boolean
+  createdAt       DateTime @default(now())
+
+  //Já um ad pode ter um game
+  game Game @relation(fields: [gameId], references: [id])
+}
